@@ -1,13 +1,11 @@
 # Flutter File Downloading
 
-This project is to demonstrate how to make file downloading with progress event
+This snippet code is regarding how to make file downloading with progress event.
 
-## Getting Started
+Watch Video :
 
-This project is to demonstrate how to make file downloading with progress event
 
-Project required 4 Libraries.
-
+## Libraries Required
 1. http:
 2. provider:
 3. permission_handler:
