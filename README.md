@@ -1,4 +1,4 @@
-# flutter_file_downloading
+# Flutter File Downloading
 
 This project is to demonstrate how to make file downloading with progress event
 
